@@ -1,0 +1,23 @@
+Package: mks
+Type: Package
+Title: Simple Access to the Mailvelope Key Server
+Version: 0.1.0
+Authors@R: c(
+    person("Tom", "Wilson", , "tpw2@aber.ac.uk", c("aut", "cre")))
+Description: Search the Mailvelope Key Server via the REST API.
+Imports:
+    httr,
+    tibble,
+    lubridate,
+    crayon,
+    cli
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Collate: 
+    'allGenerics.R'
+    'allClasses.R'
+    'accessor-methods.R'
+    'search_email.R'
+    'show-method.R'
