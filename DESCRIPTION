@@ -10,7 +10,8 @@ Imports:
     tibble,
     lubridate,
     crayon,
-    cli
+    cli,
+    methods
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
