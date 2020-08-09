@@ -10,8 +10,8 @@ id(object)
 \S4method{id}{PGP}(object)
 }
 \arguments{
-\item{object}{a `PGP` S4 object}
+\item{object}{a \code{PGP} S4 object}
 }
 \description{
-Get the `PGP KEY` ID
+Get the \verb{PGP KEY} ID
 }

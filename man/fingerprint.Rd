@@ -10,8 +10,8 @@ fingerprint(object)
 \S4method{fingerprint}{PGP}(object)
 }
 \arguments{
-\item{object}{a `PGP` S4 object}
+\item{object}{a \code{PGP} S4 object}
 }
 \description{
-Get the `PGP KEY` fingerprint value
+Get the \verb{PGP KEY} fingerprint value
 }

@@ -10,10 +10,10 @@ write_key(object, outpath)
 \S4method{write_key}{PGP}(object, outpath)
 }
 \arguments{
-\item{object}{a `PGP` S4 object}
+\item{object}{a \code{PGP} S4 object}
 
 \item{outpath}{a valid directory where the key will be saved to}
 }
 \description{
-Write the `PGP_KEY` to a file
+Write the \code{PGP_KEY} to a file
 }

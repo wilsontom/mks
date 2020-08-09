@@ -10,7 +10,7 @@ search_email(email)
 \item{email}{a character string of an email address to search on the Mailvelope Key Server}
 }
 \value{
-a `PGP` S4 object
+a \code{PGP} S4 object
 }
 \description{
 Search the Mailvelope Key Server by Email
