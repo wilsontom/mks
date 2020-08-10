@@ -23,3 +23,5 @@ Collate:
     'search_email.R'
     'show-method.R'
 Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat
